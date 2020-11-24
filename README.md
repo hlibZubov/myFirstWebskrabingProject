@@ -42,7 +42,7 @@ Also, I want to add in the future:
 * Predict price of gold
 
 ### Built With 
-In this project you must have only:
+In this project, I had use:
   <br><img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" alt="LogoNetBeans" width="20" height="20">[JavaSE8](https://www.oracle.com/java/technologies/javase-downloads.html)
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="LogoNetBeans" width="20" height="20">[NetBeans](https://netbeans.org/)  
   <img src="https://www.flaticon.com/svg/static/icons/svg/889/889705.svg" alt="LogoNetBeans" width="20" height="20">[JSOUP](https://jsoup.org/download)
@@ -68,5 +68,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Hlib Zubov - [my facebook](https://www.facebook.com/profile.php?id=100007573996338) - hlib.zubov@gmail.com.com
+Hlib Zubov - [my facebook](https://www.facebook.com/profile.php?id=100007573996338)
 
